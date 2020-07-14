@@ -1,4 +1,4 @@
-# Zoom
+# Zoom [![GitHub stars](https://img.shields.io/github/stars/LuodiJackShen/Zoom)](https://github.com/LuodiJackShen/Zoom/stargazers) [![GitHub forks](https://img.shields.io/github/forks/LuodiJackShen/Zoom)](https://github.com/LuodiJackShen/Zoom/network)
 
 ![image](https://github.com/LuodiJackShen/Zoom/blob/master/zoom.gif)
 
